@@ -1,0 +1,6 @@
+node_modules/
+cache/
+data/*
+config.json
+init/data/*.json
+start

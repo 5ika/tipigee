@@ -1,0 +1,22 @@
+{
+  "name": "tipigee",
+  "version": "0.3.0",
+  "description": "Chatbot logic for Tipigee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Not yet'"
+  },
+  "keywords": [
+    "chatbot",
+    "messenja",
+    "nodejs"
+  ],
+  "author": "Tim Izzo / 5ika",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4",
+    "messenja": "^0.3.2",
+    "redis": "^2.8.0"
+  }
+}

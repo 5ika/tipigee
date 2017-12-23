@@ -1,0 +1,22 @@
+{
+  "server": {
+    "url": "https://mychatbot.org",
+    "port": 3333,
+    "redis": "localhost"
+  },
+  "tpg": {
+    "key": "",
+    "url": "http://prod.ivtr-od.tpg.ch/v1/"
+  },
+  "telegram": {
+    "token": ""
+  },
+  "facebook": {
+    "verify_token": "GFDGZ53g454c5gYXuDES",
+    "token": ""
+  },
+  "dialogflow": {
+    "token": ""
+  },
+  "debug": true
+}
