@@ -1,4 +1,6 @@
 # Tipigee
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F5ika%2Ftipigee.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F5ika%2Ftipigee?ref=badge_shield)
+
 
 Tipigee est un chatbot pour les [Transports Publics Genevois](https://tpg.ch/) utilisable par Facebook Messenger et Telegram.
 
@@ -79,3 +81,6 @@ N'importe qui est libre de faire des modifications et proposer des amélioration
 ## Licence
 
 Ce projet est placé sous licence [GPLv3](https://github.com/5ika/tipigee/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F5ika%2Ftipigee.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F5ika%2Ftipigee?ref=badge_large)
